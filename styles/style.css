@@ -113,6 +113,21 @@ body {
     width: 50%;
 
 } 
+.portfolio__conteudo__titulo {
+    font-size: 2.25rem;
+    font-family: var(--fonte-primaria);
+}
+
+.apresentacao__conteudo__texto {
+    font-size: 1.5rem;
+    font-family: var(--fonte-secundaria);
+    text-align:justify;
+}
+
+.portfolio__imagem {
+    width: 50%;
+
+}
 
 .rodape {
     color: var(--cor-secundaria);
